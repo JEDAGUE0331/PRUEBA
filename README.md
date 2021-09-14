@@ -1,2 +1,2 @@
 # PRUEBA
-Primer repositorio
+Primer repositorio de prueba en Git Hub.
